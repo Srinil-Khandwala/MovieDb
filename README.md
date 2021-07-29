@@ -2,10 +2,9 @@
 
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project has been created using React. It can be used to browse ,search and get a comprehensive overview of various movies. The moviedb api has been used in the project.\
+This project has been created using React. It can be used to browse ,search and get a comprehensive overview of various movies. The moviedb api has been used in the project. \
 
-Users must generate their own api key from 'https://www.themoviedb.org/'. \
-Create a '.env' file in the project directory and paste the following : \
+Users must generate their own api key from 'https://www.themoviedb.org/'. Create a '.env' file in the project directory and paste the following : \
 REACT_APP_API_KEY = You api Key
 
 Project link : 'https://moviedb-epic-edd7e2b.netlify.app'
